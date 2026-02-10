@@ -2,6 +2,10 @@
 
 This is a local Claude Skills project that teaches Claude how to use the SwiftScholar HTTP API to search, submit, and analyze academic papers.
 
+This skill controls and documents the HTTP API behind the SwiftScholar web application at `https://www.swiftscholar.net/`.
+
+This skill is also registered on ClawHub and supports the OpenClaw ecosystem: see [`swiftscholar-skill` on ClawHub](https://clawhub.ai/Tokisakix/swiftscholar-skill).
+
 ### Directory structure
 
 - `SKILL.md`  

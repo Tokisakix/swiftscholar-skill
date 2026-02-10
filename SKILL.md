@@ -309,4 +309,3 @@ All listed endpoints live under `paths./api/tools/...`.
   - Concise paper lists (title + year + short description);
   - Clear bullet-point summaries (methods, results, limitations);
   - Direct conclusions and recommendations relevant to the user’s question (not just raw data dumps).
-
